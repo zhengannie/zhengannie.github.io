@@ -59,10 +59,12 @@
 	 
 	 $(".egg-4").click(function() {
 		$("this").addClass("b");
+		 // jQuery Function Number 5
 	});
 
 	$(".egg-4").click(function() {
 		$("this").removeClass("b");
+		// jQuery Function Number 6
 	});
 
 });
