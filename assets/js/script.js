@@ -56,6 +56,14 @@
 		$("#banner").css('background-color', '#FFB90F');
 		$("h1").css('color','#FFB90F');
 	});
+	 
+	 $(".egg-4").click(function() {
+		$("this").addClass("b");
+	});
+
+	$(".egg-4").click(function() {
+		$("this").removeClass("b");
+	});
 
 });
 
